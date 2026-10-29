@@ -1,0 +1,16 @@
+# Cameron HayGlass
+
+> Product leader in Winnipeg, Canada. Ten years leading product, ten as an engineer and tech lead, and four 0 to 1 products taken to seven-figure ARR. I help people build software that helps people.
+
+## About me
+
+- [Website](https://chayglass.com/): one-page summary
+- [Resume](https://github.com/chayglass84/chayglass84/blob/main/resume.md): career history and accomplishments
+- [AGENTS.md](https://github.com/chayglass84/chayglass84/blob/main/AGENTS.md): notes on how I work, written for AI agents
+- [GitHub profile](https://github.com/chayglass84/chayglass84): README and projects
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/chayglass/)
+- [CFL Fans Fight Cancer](https://www.cflfansfightcancer.com): charity I co-founded in 2006
+- Email: chayglass@gmail.com
